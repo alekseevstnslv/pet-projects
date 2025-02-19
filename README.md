@@ -1,5 +1,5 @@
-# pet-projects
-Simple projects to practice skills
+# Pet-проекты
+Простые проекты для мелких задачи или отработки навыков.
 
 ## Necessary packages
 
